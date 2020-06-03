@@ -19,12 +19,12 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     13. How do I get my link to open in a new tab? By adding target = "_blank" after the href attribute followed by a link.
     14. What is the alt attribute in the image tag used for? The alt attribute is a alternate text description of the image if the image is not displayed.
     15. How do I reference an id? By using # followed by the name of an id.
-    16. What is the difference between a section and a div? section is used to divide different sections of the document.
+    16. What is the difference between a section and a div? section is used to group sections of the document together. div is used to divide up sections for grouping or styling purposes.
     17. What is CSS used for? To style HTML
-    18. How to we select an element? Example - every h2 on the page element {}
-    19. What is the difference between a class and an id? - Give me an example of when I might use each one
-    20. How do we select classes in CSS?
-    21. How do we select a p element with a single class of “human””? p
+    18. How to we select an element? Example - every h2 on the page element h2 {}
+    19. What is the difference between a class and an id? - Give me an example of when I might use each one An id is unique to a single HTML element, while class can be used to identify one or more similar elements. You could use a class for section of multiple paragraphs, while you can id one paragrah at a time.   
+    20. How do we select classes in CSS? You can select classes in CSS with using . followed up by the name of the class. 
+    21. How do we select a p element with a single class of “human””? .human p {}
     22. What is a parent child selector? When would this be useful? 
     23. How do you select all links within a div with the class of sidebar?
     24. What is a pseudo selector?
