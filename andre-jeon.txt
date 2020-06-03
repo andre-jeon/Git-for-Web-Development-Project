@@ -41,6 +41,21 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     35. How often should I commit to github? As often as possible.
     36. What is the command we would use to push our repo up to github? git push
     37. Walk me through Lambda's git flow. 
+        1. Create your own repo.
+        2. Add your TL as a contributor on your repo.
+        3. Clone your repo and copy the http link.
+        4. Set the location that you want to clone your repo in your computer with cd.
+        5. Use the git clone <link> to clone the repo to the designated location.
+        6. cd into the repo.
+        7. Use the git checkout -b "firstName-lastName" to create my own branch.
+        8. Work on the repo.
+        9. While working on the repo, use the git add . command to add any changes.
+        10. Use the git commit -m "your message/notes" to leave messages.
+        11. When you are done working on your repo, use the git push command to upload it to GitHub.
+        12. Go to this repo on GitHub.com and click on the branch : master buttom on the left side.
+        13. Click your name-branch and click the new pull request.
+        14. Change the base repo to your own repo.
+        15. Add your TL as a reviewer and submit.
 
     Stretch Questions
 
