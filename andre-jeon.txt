@@ -15,11 +15,11 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     9. How many times can I use the same id on a page? Once
     10. What is a class? class attribute specifies one or more class names for an HTML element.
     11. What elements can I add a class to? All of them.
-    12. How many times can I use the same class on a page? 
-    13. How do I get my link to open in a new tab?
-    14. What is the alt attribute in the image tag used for? 
-    15. How do I reference an id?
-    16. What is the difference between a section and a div
+    12. How many times can I use the same class on a page? As many you need.
+    13. How do I get my link to open in a new tab? By adding target = "_blank" after the href attribute followed by a link.
+    14. What is the alt attribute in the image tag used for? The alt attribute is a alternate text description of the image if the image is not displayed.
+    15. How do I reference an id? By using # followed by the name of an id.
+    16. What is the difference between a section and a div? section is used to divide different sections of the document.
     17. What is CSS used for? To style HTML
     18. How to we select an element? Example - every h2 on the page element {}
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
